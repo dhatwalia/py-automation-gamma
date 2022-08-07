@@ -6,6 +6,10 @@ Python Automation using beautiful soup
 
 In the project directory, you can run:
 
+### `pip3 install -r requirements.txt`
+
+Installs all the packages required to run all the scripts.
+
 ### `python3 filename.py`
 
 Executes the python file named `filename.py`.
